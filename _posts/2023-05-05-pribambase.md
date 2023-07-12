@@ -1,9 +1,7 @@
 ---
 title: pribambase
-date: 2023-05-05 09:00:00 -0500
-categories: []
-tags: []
-img_path: /assets/img/
+date: 2023-05-05 09:00 -500
+img_path: /assets/img/blender/
 ---
 # **PRIBAMBASE**
 This addon makes the low poly texturing more easy(the blenders base texture painting works better for higher resolutions and Aseprite is a rl good tool in general) install it
