@@ -3,7 +3,7 @@ title: pribambase
 date: 2023-05-05 09:00 -500
 categories: [guide]
 tags: [installation, workflow]
-img_path: /Blender101/assets/img/blender/
+img_path: /assets/img/blender/
 ---
 # **PRIBAMBASE**
 This addon makes the low poly texturing more easy(the blenders base texture painting works better for higher resolutions and Aseprite is a rl good tool in general) install it
