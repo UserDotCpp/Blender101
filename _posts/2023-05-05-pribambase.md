@@ -1,8 +1,8 @@
 ---
 title: pribambase
-date: 2023-05-05 09:00 -500
+date: 2023-05-05 09:00:00 -500
 categories: [guide]
-tags: [installation, workflow]
+tags: [installation,workflow]
 img_path: /assets/img/blender/
 ---
 # **PRIBAMBASE**
