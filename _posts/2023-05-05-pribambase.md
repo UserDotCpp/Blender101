@@ -1,27 +1,37 @@
 ---
 title: pribambase
 date: 2023-05-05 09:00:00 -0500
-categories: [Tutorial]
-tags: [workflow]
+categories: []
+tags: []
+img_path: /assets/img/
 ---
+#   **INSTALLING RIGIFY**
 
-# **PRIBAMBASE**
-This addon makes the low poly texturing more easy(the blenders base texture painting works better for higher resolutions and Aseprite is a rl good tool in general) install it
 
-![](/assets/img/blender101_html_b92e920341ce9053.png)
+Rigify is already included in Blender and you activate it (almost) as any other addon.
 
-in the right primbase panel connect the 2 programs
+From the main Blender menu click Edit > Preferences
 
-![](/assets/img/blender101_html_c1e556cfedabe950.png)
+![blender go to preferences window](blender%20tutorialto%20export_html_f54635cb9112ac7e.jpg)
 
-this should appear
+Go to the addons tab. In the search field type Rigify. Put a check-mark next to “Rigging: Rigify”.![activate Rigify. Blender > preferences > addons ](blender%20tutorialto%20export_html_a9b242c98c89ff5a.jpg)
 
-![](/assets/img/blender101_html_3a06ac7a6685fee1.png)
+With that the addon is active and ready for use. But there is one more step that you need to take to make sure that Rigify runs smoothly. Go to the **Save&Load** tab and activate **Auto Run Python Scripts**.
 
-to open the texture in Aseprite go to the sprite submenu press edit
+![Blender preferences Auto run python](blender%20tutorialto%20export_html_cd225d9847dc1d96.jpg)
 
-![](/assets/img/blender101_html_518f2bd4868b438b.png)
+What happens after Rigify has been activated?
+---------------------------------------------
 
-u can turn on the UVs 2
+After activation, this addon adds several new menus scattered throughout Blender’s interface. This is a personal pet peeve of mine. If the addon was better organized it would be easier to make these tutorials 🙂 We’ll gradually explore all Rigify options and learn where to find them.
 
-![](/assets/img/blender101_html_e8e0e3d68cb9cf41.png)
+#   **RIGIFY WORKFLOW**
+
+
+![rigify meta rig menu](blender%20tutorialto%20export_html_f2572a72873dfca7.jpg)
+
+When you press Shift+A in Blender’s 3d view you’ll see a few new rig types under **Armature**.
+
+![blender rigify buttons menu](blender%20tutorialto%20export_html_4094009aa1997c44.jpg)
+
+In the **Properties Panel > Armature Tab** (aka **Object Data Properties**) you’ll see the **Generate Rig** button. Below it there is a button which says “Advanced Options” which contains addition
