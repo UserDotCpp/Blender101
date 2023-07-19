@@ -9,10 +9,17 @@ tags: [Godot]
 >shift anchor your movement to the axes
 
 ![guide](https://user-images.githubusercontent.com/78625020/213387092-26cb094a-756f-4e70-a9dc-d267a13c0a87.png)
-![rec](https://user-images.githubusercontent.com/78625020/213343130-bf26e361-820a-4e8b-8fde-86275ff34bf0.PNG) this records all the changes on existing tracks
-![key](https://user-images.githubusercontent.com/78625020/213343049-dadc63e2-423b-4c23-8d90-19608fe4652e.PNG) insert key records all changes and makes new tracks if needed 
 
-![reset](https://user-images.githubusercontent.com/78625020/213345886-7db73a6e-ef5b-4a9f-b5db-74a7b81d9034.PNG) this will enable the reset track
+
+
+![rec](https://user-images.githubusercontent.com/78625020/213343130-bf26e361-820a-4e8b-8fde-86275ff34bf0.PNG) 
+this records all the changes on existing tracks
+
+![key](https://user-images.githubusercontent.com/78625020/213343049-dadc63e2-423b-4c23-8d90-19608fe4652e.PNG) 
+insert key records all changes and makes new tracks if needed 
+
+![reset](https://user-images.githubusercontent.com/78625020/213345886-7db73a6e-ef5b-4a9f-b5db-74a7b81d9034.PNG) 
+this will enable the reset track
 
 the reset track runs when the node is loaded
 ![reset track](https://user-images.githubusercontent.com/78625020/213344338-47755eed-7fd6-4e9d-af97-f8888e620244.PNG)
