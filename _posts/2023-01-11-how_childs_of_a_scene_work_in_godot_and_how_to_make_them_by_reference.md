@@ -1,5 +1,5 @@
 ---
-title: how childs of a scene work in godot and how to make them by reference.md
+title: How childs of a scene work in godot and how to make them by reference.md
 date: 2023-01-11 14:01 -500
 categories: [Tutorial,Workflow]
 tags: [Godot]
